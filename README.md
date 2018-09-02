@@ -8,6 +8,8 @@
 3、本地开发时，需要在根目录下和web文件夹下执行npm run dev命令
 ```
 ##页面描述
->用户预约：http://localhost:8085/#/
->商家登录查询预约情况：http://localhost:8085/#/login
->登录查询用户名和密码：admin，123456
+```
+用户预约：http://localhost:8085/#/  
+商家登录查询预约情况：http://localhost:8085/#/login  
+登录查询用户名和密码：admin，123456
+```
